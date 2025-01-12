@@ -10,4 +10,5 @@ The system allows the temperature range to be adjusted using a rotary encoder. P
 
 Make sure to install the necessary libraries listed in the platformio.ini file and verify that your hardware setup uses the same pin configurations specified in the code.
 
-![WhatsApp Image 2025-01-12 at 14 23 37_4ea32fb0](https://github.com/user-attachments/assets/42aab94d-70e5-4510-b61d-5989206334e0)
+
+![Screenshot 2025-01-12 142718](https://github.com/user-attachments/assets/e47c2c2f-4879-4685-91e3-abbf290a083e)
