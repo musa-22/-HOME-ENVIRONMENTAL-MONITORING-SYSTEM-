@@ -12,3 +12,4 @@ Make sure to install the necessary libraries listed in the platformio.ini file a
 
 
 ![Screenshot 2025-01-12 142718](https://github.com/user-attachments/assets/e47c2c2f-4879-4685-91e3-abbf290a083e)
+![newPics](https://github.com/user-attachments/assets/0647f871-d735-4884-8324-4532c14dbecb)
